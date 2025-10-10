@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam Kumar
 
-<!--
-**iamkrshivam/iamkrshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science (Cybersecurity)  
+🔐 Passionate about Ethical Hacking, Networking, and Secure Software Development  
+💻 Learning Linux, Python, and Web Security  
+🚀 Currently building: a fitness & nutrition tracker app  
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- Languages: Python, C, HTML, CSS, JS  
+- Tools: Wireshark, Burp Suite, Git, Linux  
+- Interests: Cybersecurity | Cloud | AI Tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: skgp11808@gmail.com  
+🌐 Portfolio : [link here]
