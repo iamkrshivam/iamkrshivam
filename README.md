@@ -14,4 +14,4 @@
 
 🌐 Linkedin : https://www.linkedin.com/in/shivam-kumar-243a39389/
 
-🌐 Portfolio : [link here]
+🌐 Portfolio : https://shivamkumar-delta.vercel.app/
