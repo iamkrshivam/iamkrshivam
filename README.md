@@ -11,4 +11,7 @@
 - Interests: Cybersecurity | Cloud | AI Tools  
 
 📫 Reach me at: skgp11808@gmail.com  
+
+🌐 Linkedin : https://www.linkedin.com/in/shivam-kumar-243a39389/
+
 🌐 Portfolio : [link here]
