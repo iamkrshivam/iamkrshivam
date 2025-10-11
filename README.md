@@ -3,10 +3,10 @@
 🎓 B.Tech in Computer Science (Cybersecurity)  
 🔐 Passionate about Ethical Hacking, Networking, and Secure Software Development  
 💻 Learning Linux, Python, and Web Security  
-🚀 Currently building: a fitness & nutrition tracker app  
+
 
 ## 🧰 Tech Stack
-- Languages: Python, C, HTML, CSS, JS  
+- Languages: Python, C,C++ HTML, CSS, JS ,Bash,Linux
 - Tools: Wireshark, Burp Suite, Git, Linux  
 - Interests: Cybersecurity | Cloud | AI Tools  
 
